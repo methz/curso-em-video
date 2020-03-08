@@ -1,6 +1,12 @@
-print('\n Curso em Vídeo - Python \n')
-print('por Marcos Oliveira')
-print('----- Desafio 004 ----- \n')
+print('\nDesafio relacionado ao curso de Python do Curso em Vídeo')
+print('------------------------------------------------------------')
+print('Autor: Marcos Oliveira')
+print('Desafio: 004')
+print('Aula: Curso Python #06 - Tipos Primitivos e Saída de Dados')
+print('------------------------------------------------------------')
+print('Carregando o programa...')
+print('Programa iniciado com sucesso')
+print('------------------------------------------------------------')
 
 
 x = input('Digite qualquer coisa para análise de tipos: \n')
