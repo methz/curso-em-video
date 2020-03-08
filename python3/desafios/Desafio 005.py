@@ -1,0 +1,15 @@
+print('\nDesafio relacionado ao curso de Python do Curso em Vídeo')
+print('------------------------------------------------------------')
+print('Autor: Marcos Oliveira')
+print('Desafio: 005')
+print('Aula: Curso Python #07 - Operadores Aritméticos')
+print('------------------------------------------------------------')
+print('Carregando o programa...')
+print('Programa iniciado com sucesso')
+print('------------------------------------------------------------')
+
+number = int(input('Digite um número inteiro: '))
+
+print('Você digitou o número {}\n'.format(number))
+print('O antecessor de {} é {}'.format(number, number-1))
+print('O sucessor de {} é {}'.format(number, number+1))
