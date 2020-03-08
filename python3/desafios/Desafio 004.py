@@ -1,6 +1,6 @@
 print('\n Curso em Vídeo - Python \n')
 print('por Marcos Oliveira')
-print('----- Desafio 04 ----- \n')
+print('----- Desafio 004 ----- \n')
 
 
 x = input('Digite qualquer coisa para análise de tipos: \n')

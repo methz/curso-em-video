@@ -1,6 +1,6 @@
 print('\n Curso em Vídeo - Python \n')
-print('----- Desafio 02 ----- \n')
 print('por Marcos Oliveira')
+print('----- Desafio 002 ----- \n')
 
 dia = input('Digite o dia de seu nascimento ')
 mes = input('Digite o mês de seu nascimento (Ex: Mar para Março)')

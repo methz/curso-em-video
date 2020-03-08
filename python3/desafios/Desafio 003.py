@@ -1,6 +1,6 @@
 print('\n Curso em Vídeo - Python \n')
-print('----- Desafio 03 ----- \n')
 print('por Marcos Oliveira')
+print('----- Desafio 003 ----- \n')
 
 n1 = int(input('Digite um número inteiro: '))
 n2 = int(input('Digite outro número inteiro: '))
