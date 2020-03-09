@@ -27,3 +27,9 @@ print('{}x9 = {}'.format(x, x * 9))
 print('{}x10 = {}'.format(x, x * 10))
 
 #  Esse programa provavelmente vai utilizar um laço de repetição posteriormente
+
+'''
+Edit: é possível usar 
+    print('-' * 15)
+em vez de print('-------')
+'''
